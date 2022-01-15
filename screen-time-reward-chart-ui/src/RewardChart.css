@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+  }
+
+h2 {
+    display:inline
+}  
+
+.Paper {
+  margin-top: 4em;
+  padding: 2em;
+}
+
+.Paper2 {
+  margin-top: 1em;
+  padding: 2em;
+}
+
+nav {
+  background-color: #097740;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
